@@ -19,8 +19,6 @@ This is a product preview card component exercie given by forntend mentor. This 
 
 ### Screenshot
 
-![Desktop](images/desktop.png)
- - - -
 ![Mobile](images/mobile.png)
 
 ### Links
