@@ -18,8 +18,9 @@ Product Preview Card Component
 This is a product preview card component exercie given by forntend mentor. This displays a simple product card with it's image and info for adding it to cart. Different displays will be shown for mobile/tablet and desktop screens.
 
 ### Screenshot
-
-![Mobile](images/mobile.png)
+![Desktop](images/desktop.png)
+- - -
+![Mobile](images\mobile.png)
 
 ### Links
 
