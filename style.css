@@ -76,6 +76,7 @@ body {
 
 
 #sellingPrice {
+    color: hsl(158, 36%, 37%);
     font-weight: 700;
     font-family: 'Fraunces', serif;
 }
