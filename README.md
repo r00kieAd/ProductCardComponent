@@ -20,7 +20,8 @@ This is a product preview card component exercie given by forntend mentor. This 
 ### Screenshot
 
 ![Desktop](images/desktop.png)
-![Mobile](main/images/image.jpg)
+ - - -
+![Mobile](images/image.jpg)
 
 ### Links
 
